@@ -1,0 +1,3 @@
+# Review log
+
+- t00-notationes-q03 — clean, 0 faults (none fixed); spot-check of the three hardest periods (Cæterum…poterit/propterea; At vero…instituemus; Nam sola materia…colligatur) shows no substantive divergence. All four translator flags evaluated and sound: image confirms edition prints "poterit. propterea" (period before lowercase), joined as one causal period rightly; "colligatur" mark period-like in image but syntax (ut…colligatur, quomodo…) forces the continuous reading regardless; "in 3 Physic." → "in book 3 of the *Physics*" acceptable (no locked form); enumerative *vero* → "again" per particle rule. Emendationes/Incerta footer omission in english.md is intended apparatus, not structural. Verdict: reviewed.
