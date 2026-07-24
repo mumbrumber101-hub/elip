@@ -2,16 +2,1819 @@
   "volume": "tome-1",
   "units": [
     {
+      "id": "t00-prooemium-operis",
+      "tractatus": "(front matter)",
+      "disputatio": "-",
+      "dubium": "-",
+      "title": "Prooemium, et partitio totius Operis",
+      "scan_pages": [
+        105,
+        109
+      ],
+      "printed_pages": "1-5",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Salmanticenses' general prooemium to the whole Cursus; printed pp. 1-5"
+    },
+    {
+      "id": "t00-notationes-q03",
+      "tractatus": "(front matter)",
+      "disputatio": "-",
+      "dubium": "-",
+      "title": "Notationes circa omnes articulos hujus tertiae quaestionis Divi Thomae",
+      "scan_pages": [
+        114,
+        114
+      ],
+      "printed_pages": "10-10",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "own-text notationes after Aquinas Q.3 De simplicitate Dei (arts. at scan 110-113, small type, skipped)"
+    },
+    {
+      "id": "t01-d01-dub01-a",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "I",
+      "title": "Utrum forma substantialis se ipsa sit individua, et primum principium individuationis, et distinctionis pure individualis totius compositi?",
+      "scan_pages": [
+        115,
+        121
+      ],
+      "printed_pages": "11-17",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 121, right col mid); tractatus+disp+dub headings on 115"
+    },
+    {
+      "id": "t01-d01-dub01-b",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "I",
+      "title": "Utrum forma substantialis se ipsa sit individua, et primum principium individuationis, et distinctionis pure individualis totius compositi?",
+      "scan_pages": [
+        121,
+        125
+      ],
+      "printed_pages": "17-21",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 121, right col mid); tractatus+disp+dub headings on 115"
+    },
+    {
+      "id": "t01-d01-dub02-a",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "II",
+      "title": "Utrum materia secundum se, et praecise sumpta, an vero materia signata quantitate sit primum radicale principium individuationis totius compositi substantialis?",
+      "scan_pages": [
+        126,
+        132
+      ],
+      "printed_pages": "22-28",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 132, left col upper)"
+    },
+    {
+      "id": "t01-d01-dub02-b",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "II",
+      "title": "Utrum materia secundum se, et praecise sumpta, an vero materia signata quantitate sit primum radicale principium individuationis totius compositi substantialis?",
+      "scan_pages": [
+        132,
+        137
+      ],
+      "printed_pages": "28-33",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 132, left col upper)"
+    },
+    {
+      "id": "t01-d01-dub03-a",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "III",
+      "title": "Utrum materia signata quantitate, prout dicit compositum quoddam ex materia, et quantitate, tanquam ex forma inhaerente, et constituente, sit prima radix individuationis compositi?",
+      "scan_pages": [
+        138,
+        146
+      ],
+      "printed_pages": "34-42",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 146, left col lower-third); § III at 143 also verified"
+    },
+    {
+      "id": "t01-d01-dub03-b",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "III",
+      "title": "Utrum materia signata quantitate, prout dicit compositum quoddam ex materia, et quantitate, tanquam ex forma inhaerente, et constituente, sit prima radix individuationis compositi?",
+      "scan_pages": [
+        146,
+        152
+      ],
+      "printed_pages": "42-48",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 146, left col lower-third); § III at 143 also verified"
+    },
+    {
+      "id": "t01-d01-dub04",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "IV",
+      "title": "Utrum materia signata quantitate, prout dicit modum quemdam substantialem, ex natura rei diversum a materia, et eam determinantem ad hanc potius quantitatem, quam ad illam habendam, sit prima radix individuationis substantiae materialis, et formae substantialis, illius?",
+      "scan_pages": [
+        153,
+        155
+      ],
+      "printed_pages": "49-51",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t01-d01-dub05-a",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "V",
+      "title": "Utrum materia signata quantitate, prout dicit materiam ut praehabentem per modum radicis, hanc potius quantitatem, quam illam, sit prima radix individuationis substantiae materialis completae, atque adeo formae substantialis illius?",
+      "scan_pages": [
+        156,
+        162
+      ],
+      "printed_pages": "52-58",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 163, left col TOP - clean page break)"
+    },
+    {
+      "id": "t01-d01-dub05-b",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "I De principio individuationis substantiae materialis, et accidentium ejus",
+      "dubium": "V",
+      "title": "Utrum materia signata quantitate, prout dicit materiam ut praehabentem per modum radicis, hanc potius quantitatem, quam illam, sit prima radix individuationis substantiae materialis completae, atque adeo formae substantialis illius?",
+      "scan_pages": [
+        163,
+        167
+      ],
+      "printed_pages": "59-63",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 163, left col TOP - clean page break)"
+    },
+    {
+      "id": "t01-d02-dub01",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "II De principio individuationis accidentium",
+      "dubium": "I",
+      "title": "Utrum subjectum sit prima radix, et principium individuationis accidentium, et distinctionis pure individualis eorum?",
+      "scan_pages": [
+        168,
+        173
+      ],
+      "printed_pages": "64-69",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disputatio II heading + proem on scan 168; dubium heading on 169"
+    },
+    {
+      "id": "t01-d02-dub02-a",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "II De principio individuationis accidentium",
+      "dubium": "II",
+      "title": "Utrum quantitas hoc sibi peculiare vendicet, ut quodammodo ex se, tanquam a prima radice individuetur?",
+      "scan_pages": [
+        174,
+        178
+      ],
+      "printed_pages": "70-74",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-IV); split at § V (scan 179, left col TOP; 178 foot is catchword)"
+    },
+    {
+      "id": "t01-d02-dub02-b",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "II De principio individuationis accidentium",
+      "dubium": "II",
+      "title": "Utrum quantitas hoc sibi peculiare vendicet, ut quodammodo ex se, tanquam a prima radice individuetur?",
+      "scan_pages": [
+        179,
+        185
+      ],
+      "printed_pages": "75-81",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ V-end); split at § V (scan 179, left col TOP; 178 foot is catchword)"
+    },
+    {
+      "id": "t01-d02-dub03",
+      "tractatus": "I De principio individuationis",
+      "disputatio": "II De principio individuationis accidentium",
+      "dubium": "III",
+      "title": "Utrum essentialiter repugnet distinctioni pure numericae accidentium, ut tali, quod duo ex illis numero solum diversa, sint simul in eodem subjecto?",
+      "scan_pages": [
+        186,
+        194
+      ],
+      "printed_pages": "82-90",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "9 printed pp, kept single (threshold >=10)"
+    },
+    {
+      "id": "t02-intro-q12",
+      "tractatus": "II De visione Dei",
+      "disputatio": "-",
+      "dubium": "-",
+      "title": "In Quaest. XII Angelici Doctoris: Quomodo Deus a nobis cognoscatur (animadversio et notationes)",
+      "scan_pages": [
+        195,
+        197
+      ],
+      "printed_pages": "91-93",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "tract title page, quaestio-level commentary and Notationes circa Art. I; Aquinas Art. I (scan 196, small type) skipped"
+    },
+    {
+      "id": "t02-d01-dub01",
+      "tractatus": "II De visione Dei",
+      "disputatio": "I De possibilitate, et appetibilitate visionis Dei per essentiam a creatura intellectuali",
+      "dubium": "I",
+      "title": "Utrum visio clara Dei per essentiam, sit possibilis intellectui creato?",
+      "scan_pages": [
+        197,
+        202
+      ],
+      "printed_pages": "93-98",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d01-dub02",
+      "tractatus": "II De visione Dei",
+      "disputatio": "I De possibilitate, et appetibilitate visionis Dei per essentiam a creatura intellectuali",
+      "dubium": "II",
+      "title": "Utrum Sancti Patres cognoverint, possibilem esse intellectui creato visionem Dei per essentiam?",
+      "scan_pages": [
+        203,
+        206
+      ],
+      "printed_pages": "99-102",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d01-dub03",
+      "tractatus": "II De visione Dei",
+      "disputatio": "I De possibilitate, et appetibilitate visionis Dei per essentiam a creatura intellectuali",
+      "dubium": "III",
+      "title": "Utrum possibilitas visionis Dei per essentiam ab intellectu creato possit evidenter cognosci per lumen naturae.",
+      "scan_pages": [
+        207,
+        213
+      ],
+      "printed_pages": "103-109",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d01-dub04",
+      "tractatus": "II De visione Dei",
+      "disputatio": "I De possibilitate, et appetibilitate visionis Dei per essentiam a creatura intellectuali",
+      "dubium": "IV",
+      "title": "Utrum in natura intellectuali secundum se sumpta, sit appetitus innatus ad visionem Dei per essentiam?",
+      "scan_pages": [
+        214,
+        217
+      ],
+      "printed_pages": "110-113",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d01-dub05",
+      "tractatus": "II De visione Dei",
+      "disputatio": "I De possibilitate, et appetibilitate visionis Dei per essentiam a creatura intellectuali",
+      "dubium": "V",
+      "title": "Utrum detur in creatura intellectuali secundum se sumpta, appetitus elicitus, et naturalis, respectu visionis clarae Dei?",
+      "scan_pages": [
+        218,
+        222
+      ],
+      "printed_pages": "114-118",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "ends where Aquinas Art. II begins (scan 222, small type, skipped)"
+    },
+    {
+      "id": "t02-d02-dub01",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "I",
+      "title": "An juxta mentem D. Thom. sit admittenda aliqua similitudo creata in ordine ad visionem claram Dei eliciendam.",
+      "scan_pages": [
+        223,
+        228
+      ],
+      "printed_pages": "119-124",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. II heading mid-page 223 after end of Art. II"
+    },
+    {
+      "id": "t02-d02-dub02-a",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "II",
+      "title": "Utrum Essentia divina uniatur de facto cum intellectu beati, per modum speciei intelligibilis, in ordine ad claram Dei visionem?",
+      "scan_pages": [
+        229,
+        236
+      ],
+      "printed_pages": "125-132",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-V); split at § VI (scan 236, left col upper)"
+    },
+    {
+      "id": "t02-d02-dub02-b",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "II",
+      "title": "Utrum Essentia divina uniatur de facto cum intellectu beati, per modum speciei intelligibilis, in ordine ad claram Dei visionem?",
+      "scan_pages": [
+        236,
+        243
+      ],
+      "printed_pages": "132-139",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ VI-end); split at § VI (scan 236, left col upper)"
+    },
+    {
+      "id": "t02-d02-dub03-a",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "III",
+      "title": "Utrum essentia divina, ut habet rationem speciei intelligibilis, concurrat active ad visionem claram Dei?",
+      "scan_pages": [
+        244,
+        251
+      ],
+      "printed_pages": "140-147",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 251, left col mid); § III at 248 also verified"
+    },
+    {
+      "id": "t02-d02-dub03-b",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "III",
+      "title": "Utrum essentia divina, ut habet rationem speciei intelligibilis, concurrat active ad visionem claram Dei?",
+      "scan_pages": [
+        251,
+        255
+      ],
+      "printed_pages": "147-151",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 251, left col mid); § III at 248 also verified"
+    },
+    {
+      "id": "t02-d02-dub04",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "IV",
+      "title": "Utrum sit possibilis per divinam potentiam species impressa creata, per quam Deus quidditative, et prout est in se ipso, possit videri.",
+      "scan_pages": [
+        256,
+        260
+      ],
+      "printed_pages": "152-156",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "DUBIUM V at foot of 260 is a catchword; dub V starts 261"
+    },
+    {
+      "id": "t02-d02-dub05",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "V",
+      "title": "Utrum prima ratio, quam D. Thom. in hoc articulo adducit, sufficienter convincat impossibilitatem speciei impressae, quidditative, et clare Deum repraesentantis?",
+      "scan_pages": [
+        261,
+        267
+      ],
+      "printed_pages": "157-163",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d02-dub06",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "VI",
+      "title": "Utrum ex secunda ratione D. Thom. sufficienter colligatur impossibilitas speciei impressae repraesentantis quidditative, et clare Deum, prout est in se ipso?",
+      "scan_pages": [
+        268,
+        269
+      ],
+      "printed_pages": "164-165",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "single § UNICUS"
+    },
+    {
+      "id": "t02-d02-dub07-a",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "VII",
+      "title": "Quae specialiter obstent contra secundam rationem D. Thomae, et quomodo solvenda?",
+      "scan_pages": [
+        270,
+        274
+      ],
+      "printed_pages": "166-170",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-II); split at § III (scan 274, left col mid)"
+    },
+    {
+      "id": "t02-d02-dub07-b",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "VII",
+      "title": "Quae specialiter obstent contra secundam rationem D. Thomae, et quomodo solvenda?",
+      "scan_pages": [
+        274,
+        279
+      ],
+      "printed_pages": "170-175",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ III-end); split at § III (scan 274, left col mid)"
+    },
+    {
+      "id": "t02-d02-dub08",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "VIII",
+      "title": "Utrum ultima ratio articuli probet impossibilitatem speciei intelligibilis creatae repraesentantis quidditative Deum? ubi etiam argumenta, quae dub. 4. hujus disputationis ex adversariis adduximus, dissolvuntur.",
+      "scan_pages": [
+        280,
+        283
+      ],
+      "printed_pages": "176-179",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d02-dub09",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "IX",
+      "title": "Utrum necessario, et indispensabiliter detur in beatis verbum, seu species expressa repraesentans quidditative Deum, prout est in se?",
+      "scan_pages": [
+        284,
+        291
+      ],
+      "printed_pages": "180-187",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d02-dub10-a",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "X",
+      "title": "Utrum recte probetur impossibilitas verbi creati clare, et quidditative repraesentantis Deum, ex eo, quod Deus essentialiter est ipsum esse quidditative intellectum, et ita nequit mediante verbo creato quidditative intelligi.",
+      "scan_pages": [
+        292,
+        299
+      ],
+      "printed_pages": "188-195",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-V); split at § VI (scan 299, left col bottom); Aquinas Arts. III-IV at scan 305 (small type, skipped)"
+    },
+    {
+      "id": "t02-d02-dub10-b",
+      "tractatus": "II De visione Dei",
+      "disputatio": "II De similitudine, seu specie requisita ad visionem claram Dei",
+      "dubium": "X",
+      "title": "Utrum recte probetur impossibilitas verbi creati clare, et quidditative repraesentantis Deum, ex eo, quod Deus essentialiter est ipsum esse quidditative intellectum, et ita nequit mediante verbo creato quidditative intelligi.",
+      "scan_pages": [
+        299,
+        304
+      ],
+      "printed_pages": "195-200",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ VI-end); split at § VI (scan 299, left col bottom); Aquinas Arts. III-IV at scan 305 (small type, skipped)"
+    },
+    {
+      "id": "t02-d03-dub01",
+      "tractatus": "II De visione Dei",
+      "disputatio": "III De impossibilitate visionis Dei, prout est in se per vires creatas ordinis naturalis, vel alicui intellectui creato connaturales",
+      "dubium": "I",
+      "title": "An per potentiam Dei absolutam sit possibilis aliquis intellectus, qui per vires proprias ordinis naturalis possit videre Deum prout est in se.",
+      "scan_pages": [
+        306,
+        309
+      ],
+      "printed_pages": "202-205",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d03-dub02-a",
+      "tractatus": "II De visione Dei",
+      "disputatio": "III De impossibilitate visionis Dei, prout est in se per vires creatas ordinis naturalis, vel alicui intellectui creato connaturales",
+      "dubium": "II",
+      "title": "Utrum sint possibiles per divinam potentiam aliqua substantia, aliquisque intellectus, quibus sit connaturale lumen gloriae, et possint ex propriis viribus videre Deum per essentiam?",
+      "scan_pages": [
+        310,
+        315
+      ],
+      "printed_pages": "206-211",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 315, right col bottom); Aquinas Art. V at scan 323 (skipped)"
+    },
+    {
+      "id": "t02-d03-dub02-b",
+      "tractatus": "II De visione Dei",
+      "disputatio": "III De impossibilitate visionis Dei, prout est in se per vires creatas ordinis naturalis, vel alicui intellectui creato connaturales",
+      "dubium": "II",
+      "title": "Utrum sint possibiles per divinam potentiam aliqua substantia, aliquisque intellectus, quibus sit connaturale lumen gloriae, et possint ex propriis viribus videre Deum per essentiam?",
+      "scan_pages": [
+        315,
+        322
+      ],
+      "printed_pages": "211-218",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 315, right col bottom); Aquinas Art. V at scan 323 (skipped)"
+    },
+    {
+      "id": "t02-d04-dub01",
+      "tractatus": "II De visione Dei",
+      "disputatio": "IV De necessitate luminis gloriae ad videndum divinam essentiam prout est in se",
+      "dubium": "I",
+      "title": "Utrum lumen gloriae concurrat ad visionem Dei per modum speciei impressae?",
+      "scan_pages": [
+        323,
+        329
+      ],
+      "printed_pages": "219-225",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. IV heading + proem on scan 323 (after Art. V); dubium heading on 324"
+    },
+    {
+      "id": "t02-d04-dub02",
+      "tractatus": "II De visione Dei",
+      "disputatio": "IV De necessitate luminis gloriae ad videndum divinam essentiam prout est in se",
+      "dubium": "II",
+      "title": "Utrum lumen gloriae sit dispositio necessaria ad hoc, ut essentia divina in ratione formae, seu speciei intelligibilis uniatur intellectibus beatorum?",
+      "scan_pages": [
+        330,
+        334
+      ],
+      "printed_pages": "226-230",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d04-dub03",
+      "tractatus": "II De visione Dei",
+      "disputatio": "IV De necessitate luminis gloriae ad videndum divinam essentiam prout est in se",
+      "dubium": "III",
+      "title": "Utrum lumen gloriae ad visionem Dei recipiendam necessario desideretur?",
+      "scan_pages": [
+        335,
+        338
+      ],
+      "printed_pages": "231-234",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d04-dub04",
+      "tractatus": "II De visione Dei",
+      "disputatio": "IV De necessitate luminis gloriae ad videndum divinam essentiam prout est in se",
+      "dubium": "IV",
+      "title": "Utrum per potentiam Dei absolutam possit intellectus creatus sine lumine gloriae per solam suam potentiam obedientialem, addito tamen influxu concomitante in visionem, non vero aliquo alio praevio, in eundem intellectum, illam elicere?",
+      "scan_pages": [
+        339,
+        345
+      ],
+      "printed_pages": "235-241",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d04-dub05",
+      "tractatus": "II De visione Dei",
+      "disputatio": "IV De necessitate luminis gloriae ad videndum divinam essentiam prout est in se",
+      "dubium": "V",
+      "title": "Utrum per divinam potentiam possit in ratione luminis divina essentia uniri intellectui creato, et ita constituere illum absque creato lumine in actu primo ad videndum Deum, ut est in se?",
+      "scan_pages": [
+        346,
+        353
+      ],
+      "printed_pages": "242-249",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Aquinas Art. VI at scan 353 (small type, skipped)"
+    },
+    {
+      "id": "t02-d05-dub01",
+      "tractatus": "II De visione Dei",
+      "disputatio": "V De qualitate, et inaequalitate visionum in beatis",
+      "dubium": "I",
+      "title": "Utrum inter visiones beatificas reperiatur inaequalitas?",
+      "scan_pages": [
+        354,
+        356
+      ],
+      "printed_pages": "250-252",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. V heading + dub I both on scan 354 (index title variant 'De aequalitate...'; body page authoritative)"
+    },
+    {
+      "id": "t02-d05-dub02",
+      "tractatus": "II De visione Dei",
+      "disputatio": "V De qualitate, et inaequalitate visionum in beatis",
+      "dubium": "II",
+      "title": "Utrum inaequalitas reperta in visionibus beatificis non solum sit intensiva, et extensiva, sed etiam essentialis, et specifica?",
+      "scan_pages": [
+        356,
+        361
+      ],
+      "printed_pages": "252-257",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d05-dub03",
+      "tractatus": "II De visione Dei",
+      "disputatio": "V De qualitate, et inaequalitate visionum in beatis",
+      "dubium": "III",
+      "title": "Utrum melior potentia intellectiva cum aequali lumine gloriae clarius essentiam divinam intueatur?",
+      "scan_pages": [
+        362,
+        369
+      ],
+      "printed_pages": "258-265",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Aquinas Art. VII at scan 370 (small type, skipped)"
+    },
+    {
+      "id": "t02-d06-dub-unicum-a",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VI De incomprehensibilitate Dei ab intellectu creato",
+      "dubium": "unicum",
+      "title": "Utrum per divinam potentiam possit intellectus creatus comprehendere Deum?",
+      "scan_pages": [
+        371,
+        375
+      ],
+      "printed_pages": "267-271",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-II); split at § III (scan 375, left col upper); Aquinas Art. VIII at scan 382 (skipped)"
+    },
+    {
+      "id": "t02-d06-dub-unicum-b",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VI De incomprehensibilitate Dei ab intellectu creato",
+      "dubium": "unicum",
+      "title": "Utrum per divinam potentiam possit intellectus creatus comprehendere Deum?",
+      "scan_pages": [
+        375,
+        381
+      ],
+      "printed_pages": "271-277",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ III-end); split at § III (scan 375, left col upper); Aquinas Art. VIII at scan 382 (skipped)"
+    },
+    {
+      "id": "t02-d07-dub01",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VII De iis, quae viso Deo in eo videntur, aut videri possunt",
+      "dubium": "I",
+      "title": "Utrum videntes Deum, videant omnia absoluta, quae formaliter, et omnino necessario sunt in illo?",
+      "scan_pages": [
+        383,
+        384
+      ],
+      "printed_pages": "279-280",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d07-dub02",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VII De iis, quae viso Deo in eo videntur, aut videri possunt",
+      "dubium": "II",
+      "title": "Utrum Divina essentia possit videri sine personis, vel una persona sine alia?",
+      "scan_pages": [
+        385,
+        392
+      ],
+      "printed_pages": "281-288",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d07-dub03",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VII De iis, quae viso Deo in eo videntur, aut videri possunt",
+      "dubium": "III",
+      "title": "Utrum beati ex vi visionis divinae essentiae possint videre, et de facto videant decreta libera Dei?",
+      "scan_pages": [
+        393,
+        397
+      ],
+      "printed_pages": "289-293",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d07-dub04",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VII De iis, quae viso Deo in eo videntur, aut videri possunt",
+      "dubium": "IV",
+      "title": "Utrum ex vi visionis divinae essentiae possint, aut debeant videri effectus existentes in aliqua differentia temporis?",
+      "scan_pages": [
+        398,
+        403
+      ],
+      "printed_pages": "294-299",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t02-d07-dub05-a",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VII De iis, quae viso Deo in eo videntur, aut videri possunt",
+      "dubium": "V",
+      "title": "Utrum ex vi visionis divinae essentiae possint videri creaturae possibiles?",
+      "scan_pages": [
+        404,
+        410
+      ],
+      "printed_pages": "300-306",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-IV); split at § V (scan 410, left col upper); Aquinas Arts. IX-XIII at scan 414-417 (small type, skipped)"
+    },
+    {
+      "id": "t02-d07-dub05-b",
+      "tractatus": "II De visione Dei",
+      "disputatio": "VII De iis, quae viso Deo in eo videntur, aut videri possunt",
+      "dubium": "V",
+      "title": "Utrum ex vi visionis divinae essentiae possint videri creaturae possibiles?",
+      "scan_pages": [
+        410,
+        413
+      ],
+      "printed_pages": "306-309",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ V-end); split at § V (scan 410, left col upper); Aquinas Arts. IX-XIII at scan 414-417 (small type, skipped)"
+    },
+    {
       "id": "t03-d01-dub-unicum",
       "tractatus": "III De scientia Dei",
       "disputatio": "I (prooemialis)",
       "dubium": "unicum",
       "title": "Utrum ea quae D. Thom. in Prooemio hujus quaestionis docet, sint vera",
-      "scan_pages": [419, 422],
+      "scan_pages": [
+        419,
+        422
+      ],
       "printed_pages": "315-318",
       "include_articles": false,
       "status": "reviewed",
-      "notes": "pilot unit; completed in chat 2026-07-24; Stage 0 must prepend all units before this one and append the rest of the volume"
+      "notes": "pilot unit; done in chat 2026-07-24. Stage 0 note: no DISPUTATIO heading in print - dubium hangs off Quaestio XIV prooemium; printed Disp. I begins scan 422. Id retained from pilot."
+    },
+    {
+      "id": "t03-d01-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "I De scientia Dei quoad an est",
+      "dubium": "I",
+      "title": "Utrum cognitio intellectiva sit formaliter in Deo?",
+      "scan_pages": [
+        422,
+        424
+      ],
+      "printed_pages": "318-320",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. I + dub heading on scan 422 after Aquinas Art. I (small type, skipped)"
+    },
+    {
+      "id": "t03-d01-dub02-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "I De scientia Dei quoad an est",
+      "dubium": "II",
+      "title": "Utrum ex eo, quod Deus sit summe immaterialis, recte probet Angelicus Doctor eum esse summe intelligentem.",
+      "scan_pages": [
+        425,
+        430
+      ],
+      "printed_pages": "321-326",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-II); split at § III (scan 430, right col mid)"
+    },
+    {
+      "id": "t03-d01-dub02-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "I De scientia Dei quoad an est",
+      "dubium": "II",
+      "title": "Utrum ex eo, quod Deus sit summe immaterialis, recte probet Angelicus Doctor eum esse summe intelligentem.",
+      "scan_pages": [
+        430,
+        435
+      ],
+      "printed_pages": "326-331",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ III-end); split at § III (scan 430, right col mid)"
+    },
+    {
+      "id": "t03-d01-dub03",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "I De scientia Dei quoad an est",
+      "dubium": "III",
+      "title": "Utrum in Deo sit scientia proprie, et formaliter dicta, et respectu quorum?",
+      "scan_pages": [
+        436,
+        442
+      ],
+      "printed_pages": "332-338",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "index lists fol. 322, images give printed 332 (scan 436) - index typo"
+    },
+    {
+      "id": "t03-d01-dub04-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "I De scientia Dei quoad an est",
+      "dubium": "IV",
+      "title": "Utrum scientia Dei sit attributum illius?",
+      "scan_pages": [
+        443,
+        449
+      ],
+      "printed_pages": "339-345",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 449, right col upper)"
+    },
+    {
+      "id": "t03-d01-dub04-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "I De scientia Dei quoad an est",
+      "dubium": "IV",
+      "title": "Utrum scientia Dei sit attributum illius?",
+      "scan_pages": [
+        449,
+        453
+      ],
+      "printed_pages": "345-349",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 449, right col upper)"
+    },
+    {
+      "id": "t03-d02-dub01-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "II De duplici discrimine, quod D. Thom. in hoc articulo inter cognoscentia, et non cognoscentia constituit",
+      "dubium": "I",
+      "title": "Utrum sit vera prima differentia, quam assignat D. Thom. inter cognoscentia, et non cognoscentia, quod haec tantum habent suam formam; illa vero habent etiam formas aliarum rerum?",
+      "scan_pages": [
+        454,
+        460
+      ],
+      "printed_pages": "350-356",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 3 (§§ I-III); splits at § IV (scan 460, left col mid) and § VI (scan 467, right col TOP)"
+    },
+    {
+      "id": "t03-d02-dub01-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "II De duplici discrimine, quod D. Thom. in hoc articulo inter cognoscentia, et non cognoscentia constituit",
+      "dubium": "I",
+      "title": "Utrum sit vera prima differentia, quam assignat D. Thom. inter cognoscentia, et non cognoscentia, quod haec tantum habent suam formam; illa vero habent etiam formas aliarum rerum?",
+      "scan_pages": [
+        460,
+        466
+      ],
+      "printed_pages": "356-362",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 3 (§§ IV-V); splits at § IV (scan 460, left col mid) and § VI (scan 467, right col TOP)"
+    },
+    {
+      "id": "t03-d02-dub01-c",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "II De duplici discrimine, quod D. Thom. in hoc articulo inter cognoscentia, et non cognoscentia constituit",
+      "dubium": "I",
+      "title": "Utrum sit vera prima differentia, quam assignat D. Thom. inter cognoscentia, et non cognoscentia, quod haec tantum habent suam formam; illa vero habent etiam formas aliarum rerum?",
+      "scan_pages": [
+        467,
+        471
+      ],
+      "printed_pages": "363-367",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part c of 3 (§ VI-end); splits at § IV (scan 460, left col mid) and § VI (scan 467, right col TOP)"
+    },
+    {
+      "id": "t03-d02-dub02-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "II De duplici discrimine, quod D. Thom. in hoc articulo inter cognoscentia, et non cognoscentia constituit",
+      "dubium": "II",
+      "title": "Utrum cognoscentia non solum habeant formam rei alterius, sed etiam fiant per identitatem aliae res in esse cognoscibili, sive repraesentativo?",
+      "scan_pages": [
+        472,
+        477
+      ],
+      "printed_pages": "368-373",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 3 (§§ I-III); splits at § IV (scan 477, right col upper) and § VII (scan 482, right col upper); Aquinas Art. II at scan 491 (skipped)"
+    },
+    {
+      "id": "t03-d02-dub02-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "II De duplici discrimine, quod D. Thom. in hoc articulo inter cognoscentia, et non cognoscentia constituit",
+      "dubium": "II",
+      "title": "Utrum cognoscentia non solum habeant formam rei alterius, sed etiam fiant per identitatem aliae res in esse cognoscibili, sive repraesentativo?",
+      "scan_pages": [
+        477,
+        482
+      ],
+      "printed_pages": "373-378",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 3 (§§ IV-VI); splits at § IV (scan 477, right col upper) and § VII (scan 482, right col upper); Aquinas Art. II at scan 491 (skipped)"
+    },
+    {
+      "id": "t03-d02-dub02-c",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "II De duplici discrimine, quod D. Thom. in hoc articulo inter cognoscentia, et non cognoscentia constituit",
+      "dubium": "II",
+      "title": "Utrum cognoscentia non solum habeant formam rei alterius, sed etiam fiant per identitatem aliae res in esse cognoscibili, sive repraesentativo?",
+      "scan_pages": [
+        482,
+        490
+      ],
+      "printed_pages": "378-386",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part c of 3 (§§ VII-end); splits at § IV (scan 477, right col upper) and § VII (scan 482, right col upper); Aquinas Art. II at scan 491 (skipped)"
+    },
+    {
+      "id": "t03-d03-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "III De intellectione, et scientia Dei quoad ejus primarium objectum",
+      "dubium": "I",
+      "title": "Utrum Deus se ipsum primario intelligat?",
+      "scan_pages": [
+        491,
+        495
+      ],
+      "printed_pages": "387-391",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d03-dub02-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "III De intellectione, et scientia Dei quoad ejus primarium objectum",
+      "dubium": "II",
+      "title": "Utrum objectum per se primum, et specificativum intellectionis essentialis Dei sit divina essentia, ut distincta ab attributis, et relationibus? an vero ut omnia haec formaliter, et expresse dicit?",
+      "scan_pages": [
+        496,
+        501
+      ],
+      "printed_pages": "392-397",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 501, left col lower); Aquinas Arts. III-IV at scan 506-507 (skipped)"
+    },
+    {
+      "id": "t03-d03-dub02-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "III De intellectione, et scientia Dei quoad ejus primarium objectum",
+      "dubium": "II",
+      "title": "Utrum objectum per se primum, et specificativum intellectionis essentialis Dei sit divina essentia, ut distincta ab attributis, et relationibus? an vero ut omnia haec formaliter, et expresse dicit?",
+      "scan_pages": [
+        501,
+        505
+      ],
+      "printed_pages": "397-401",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 501, left col lower); Aquinas Arts. III-IV at scan 506-507 (skipped)"
+    },
+    {
+      "id": "t03-d04-dub01-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IV De intelligere Dei quoad vim, quam habet ad constituendam divinam essentiam, et naturam",
+      "dubium": "I",
+      "title": "Utrum constitutivum divinae essentiae, vel naturae sit sola ratio substantiae spiritualis a se, seu per essentiam talis, prout distincta virtualiter a ratione substantiae intelligentis per essentiam, sive radicaliter, et in actu primo, sive in actu secundo?",
+      "scan_pages": [
+        507,
+        514
+      ],
+      "printed_pages": "403-410",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 514, left col lower)"
+    },
+    {
+      "id": "t03-d04-dub01-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IV De intelligere Dei quoad vim, quam habet ad constituendam divinam essentiam, et naturam",
+      "dubium": "I",
+      "title": "Utrum constitutivum divinae essentiae, vel naturae sit sola ratio substantiae spiritualis a se, seu per essentiam talis, prout distincta virtualiter a ratione substantiae intelligentis per essentiam, sive radicaliter, et in actu primo, sive in actu secundo?",
+      "scan_pages": [
+        514,
+        517
+      ],
+      "printed_pages": "410-413",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 514, left col lower)"
+    },
+    {
+      "id": "t03-d04-dub02-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IV De intelligere Dei quoad vim, quam habet ad constituendam divinam essentiam, et naturam",
+      "dubium": "II",
+      "title": "Utrum constitutivum divinae essentiae, seu naturae sit sola ratio substantiae radicaliter, et per essentiam intellectivae, prout distinctae virtualiter ab intellectione per essentiam, an vero prout absque omni distinctione virtuali est ipsamet intellectio?",
+      "scan_pages": [
+        518,
+        524
+      ],
+      "printed_pages": "414-420",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 524, right col upper); §§ III/V at 523/526 also verified; Aquinas Arts. V-VIII at 533-535 (skipped)"
+    },
+    {
+      "id": "t03-d04-dub02-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IV De intelligere Dei quoad vim, quam habet ad constituendam divinam essentiam, et naturam",
+      "dubium": "II",
+      "title": "Utrum constitutivum divinae essentiae, seu naturae sit sola ratio substantiae radicaliter, et per essentiam intellectivae, prout distinctae virtualiter ab intellectione per essentiam, an vero prout absque omni distinctione virtuali est ipsamet intellectio?",
+      "scan_pages": [
+        524,
+        532
+      ],
+      "printed_pages": "420-428",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 524, right col upper); §§ III/V at 523/526 also verified; Aquinas Arts. V-VIII at 533-535 (skipped)"
+    },
+    {
+      "id": "t03-d05-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "V De scientia Dei quoad ejus causalitatem erga creaturas",
+      "dubium": "I",
+      "title": "Utrum scientia Dei sit aliquo modo causa rerum?",
+      "scan_pages": [
+        535,
+        536
+      ],
+      "printed_pages": "431-432",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. V heading on scan 535 after Art. VIII"
+    },
+    {
+      "id": "t03-d05-dub02",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "V De scientia Dei quoad ejus causalitatem erga creaturas",
+      "dubium": "II",
+      "title": "Quaenam scientia Dei est causa rerum?",
+      "scan_pages": [
+        537,
+        545
+      ],
+      "printed_pages": "433-441",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "9 printed pp, kept single (threshold >=10)"
+    },
+    {
+      "id": "t03-d05-dub03-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "V De scientia Dei quoad ejus causalitatem erga creaturas",
+      "dubium": "III",
+      "title": "Utrum sicut scientia Dei formaliter sumpta, est causa dirigens ad productionem creaturarum, ita etiam sit principium immediate effectivum, et exequens productionem earundem?",
+      "scan_pages": [
+        546,
+        553
+      ],
+      "printed_pages": "442-449",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 3 (§§ I-III); splits at § IV (scan 553, right col upper) and § V (scan 556, left col TOP); Aquinas Arts. IX-X at 563-564 (skipped)"
+    },
+    {
+      "id": "t03-d05-dub03-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "V De scientia Dei quoad ejus causalitatem erga creaturas",
+      "dubium": "III",
+      "title": "Utrum sicut scientia Dei formaliter sumpta, est causa dirigens ad productionem creaturarum, ita etiam sit principium immediate effectivum, et exequens productionem earundem?",
+      "scan_pages": [
+        553,
+        555
+      ],
+      "printed_pages": "449-451",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 3 (§ IV); splits at § IV (scan 553, right col upper) and § V (scan 556, left col TOP); Aquinas Arts. IX-X at 563-564 (skipped)"
+    },
+    {
+      "id": "t03-d05-dub03-c",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "V De scientia Dei quoad ejus causalitatem erga creaturas",
+      "dubium": "III",
+      "title": "Utrum sicut scientia Dei formaliter sumpta, est causa dirigens ad productionem creaturarum, ita etiam sit principium immediate effectivum, et exequens productionem earundem?",
+      "scan_pages": [
+        556,
+        562
+      ],
+      "printed_pages": "452-458",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part c of 3 (§ V-end); splits at § IV (scan 553, right col upper) and § V (scan 556, left col TOP); Aquinas Arts. IX-X at 563-564 (skipped)"
+    },
+    {
+      "id": "t03-d06-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VI De scientia Dei collata cum malis",
+      "dubium": "I",
+      "title": "An Deus cognoscat mala?",
+      "scan_pages": [
+        564,
+        564
+      ],
+      "printed_pages": "460-460",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. VI + dub I on scan 564 after Art. X; dub ends same page"
+    },
+    {
+      "id": "t03-d06-dub02",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VI De scientia Dei collata cum malis",
+      "dubium": "II",
+      "title": "An Deus necessario cognoscat mala per bona creata?",
+      "scan_pages": [
+        565,
+        571
+      ],
+      "printed_pages": "461-467",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Aquinas Arts. XI-XIII at 570-572 (small type, skipped)"
+    },
+    {
+      "id": "t03-d07-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "I",
+      "title": "Quid, et quotuplex sit futurum contingens?",
+      "scan_pages": [
+        572,
+        573
+      ],
+      "printed_pages": "468-469",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. VII heading on scan 572 right col (missed by OCR); dub I on 573"
+    },
+    {
+      "id": "t03-d07-dub02",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "II",
+      "title": "An Deus certo sciat futura contingentia absoluta?",
+      "scan_pages": [
+        574,
+        580
+      ],
+      "printed_pages": "470-476",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d07-dub03",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "III",
+      "title": "Utrum Deus certo sciat futura libera absoluta per suam essentiam, et divinas ideas, ut repraesentant veritatem ipsorum, antecedenter ad decretum suae voluntatis?",
+      "scan_pages": [
+        581,
+        587
+      ],
+      "printed_pages": "477-483",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d07-dub04-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "IV",
+      "title": "Utrum Deus certo cognoscat futura contingentia absoluta in decreto libero suae voluntatis, non quidem ut praesenti, sed ut futuro?",
+      "scan_pages": [
+        588,
+        594
+      ],
+      "printed_pages": "484-490",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 594, right col lower); DUBIUM V at foot of 598 is a catchword"
+    },
+    {
+      "id": "t03-d07-dub04-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "IV",
+      "title": "Utrum Deus certo cognoscat futura contingentia absoluta in decreto libero suae voluntatis, non quidem ut praesenti, sed ut futuro?",
+      "scan_pages": [
+        594,
+        598
+      ],
+      "printed_pages": "490-494",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 594, right col lower); DUBIUM V at foot of 598 is a catchword"
+    },
+    {
+      "id": "t03-d07-dub05",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "V",
+      "title": "Utrum Deus certo cognoscat futura contingentia absoluta, et aliquo modo pendentia a libertate creata, in comprehensione causarum secundarum, antecedenter ad liberam divinae voluntatis determinationem?",
+      "scan_pages": [
+        599,
+        603
+      ],
+      "printed_pages": "495-499",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d07-dub06-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "VI",
+      "title": "Utrum Deus certo cognoscat futura contingentia absoluta in eorum veritate objectiva, antecedenter ad divinum decretum?",
+      "scan_pages": [
+        604,
+        609
+      ],
+      "printed_pages": "500-505",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 4 (§§ I-II); 24 printed pp; splits at § III (609 right upper), § V (614 left upper), § VIII (622 right mid)"
+    },
+    {
+      "id": "t03-d07-dub06-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "VI",
+      "title": "Utrum Deus certo cognoscat futura contingentia absoluta in eorum veritate objectiva, antecedenter ad divinum decretum?",
+      "scan_pages": [
+        609,
+        614
+      ],
+      "printed_pages": "505-510",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 4 (§§ III-IV); 24 printed pp; splits at § III (609 right upper), § V (614 left upper), § VIII (622 right mid)"
+    },
+    {
+      "id": "t03-d07-dub06-c",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "VI",
+      "title": "Utrum Deus certo cognoscat futura contingentia absoluta in eorum veritate objectiva, antecedenter ad divinum decretum?",
+      "scan_pages": [
+        614,
+        622
+      ],
+      "printed_pages": "510-518",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part c of 4 (§§ V-VII); 24 printed pp; splits at § III (609 right upper), § V (614 left upper), § VIII (622 right mid)"
+    },
+    {
+      "id": "t03-d07-dub06-d",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VII De an est? scientiae Dei, respectu futurorum contingentium absolutorum: et de iis, in quibus nequeunt ab eo certo cognosci",
+      "dubium": "VI",
+      "title": "Utrum Deus certo cognoscat futura contingentia absoluta in eorum veritate objectiva, antecedenter ad divinum decretum?",
+      "scan_pages": [
+        622,
+        627
+      ],
+      "printed_pages": "518-523",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part d of 4 (§§ VIII-end); 24 printed pp; splits at § III (609 right upper), § V (614 left upper), § VIII (622 right mid)"
+    },
+    {
+      "id": "t03-d08-dub01-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "I",
+      "title": "Utrum Deus certo cognoscat cuncta futura contingentia absoluta in decreto exercito suae voluntatis, antecedenter ad quamlibet eorum infallibilem futuritionem, seu in sua essentia determinata per tale decretum?",
+      "scan_pages": [
+        628,
+        633
+      ],
+      "printed_pages": "524-529",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 633, right col mid)"
+    },
+    {
+      "id": "t03-d08-dub01-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "I",
+      "title": "Utrum Deus certo cognoscat cuncta futura contingentia absoluta in decreto exercito suae voluntatis, antecedenter ad quamlibet eorum infallibilem futuritionem, seu in sua essentia determinata per tale decretum?",
+      "scan_pages": [
+        633,
+        639
+      ],
+      "printed_pages": "529-535",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 633, right col mid)"
+    },
+    {
+      "id": "t03-d08-dub02-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "II",
+      "title": "Utrum juxta Scripturam, et Patres, praecipue vero D. Thomam, futura contingentia absoluta sint ab aeterno realiter, et physice praesentia Deo in mensura aeternitatis, et ratione hujus praesentiae certo ab illo cognoscantur?",
+      "scan_pages": [
+        640,
+        643
+      ],
+      "printed_pages": "536-539",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§ I); split at § II (scan 643, left col); § IV at 650 also verified"
+    },
+    {
+      "id": "t03-d08-dub02-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "II",
+      "title": "Utrum juxta Scripturam, et Patres, praecipue vero D. Thomam, futura contingentia absoluta sint ab aeterno realiter, et physice praesentia Deo in mensura aeternitatis, et ratione hujus praesentiae certo ab illo cognoscantur?",
+      "scan_pages": [
+        643,
+        651
+      ],
+      "printed_pages": "539-547",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ II-end); split at § II (scan 643, left col); § IV at 650 also verified"
+    },
+    {
+      "id": "t03-d08-dub03-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "III",
+      "title": "Utrum sufficienti ratione probetur, futura contingentia absoluta fuisse ab aeterno, et esse nunc realiter, et physice praesentia Deo in mensura aeternitatis, et ratione hujus praesentiae certo ab illo cognosci?",
+      "scan_pages": [
+        652,
+        658
+      ],
+      "printed_pages": "548-554",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 3 (§§ I-II); splits at § III (scan 658, right col lower) and § IV (scan 662, right col lower)"
+    },
+    {
+      "id": "t03-d08-dub03-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "III",
+      "title": "Utrum sufficienti ratione probetur, futura contingentia absoluta fuisse ab aeterno, et esse nunc realiter, et physice praesentia Deo in mensura aeternitatis, et ratione hujus praesentiae certo ab illo cognosci?",
+      "scan_pages": [
+        658,
+        662
+      ],
+      "printed_pages": "554-558",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 3 (§ III); splits at § III (scan 658, right col lower) and § IV (scan 662, right col lower)"
+    },
+    {
+      "id": "t03-d08-dub03-c",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "III",
+      "title": "Utrum sufficienti ratione probetur, futura contingentia absoluta fuisse ab aeterno, et esse nunc realiter, et physice praesentia Deo in mensura aeternitatis, et ratione hujus praesentiae certo ab illo cognosci?",
+      "scan_pages": [
+        662,
+        670
+      ],
+      "printed_pages": "558-566",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part c of 3 (§ IV-end); splits at § III (scan 658, right col lower) and § IV (scan 662, right col lower)"
+    },
+    {
+      "id": "t03-d08-dub04",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "VIII De scientia Dei respectu futurorum contingentium absolutorum, quoad ea, in quibus certo ab illo cognoscuntur",
+      "dubium": "IV",
+      "title": "Utrum aeternitas, et praesentia jam explicata futurorum in illa sit omnino necessaria, ad hoc, ut Deus certo et infallibiliter cognoscat futura contingentia absoluta, antequam sint praesentia in sua propria, et adaequata mensura, seu quoad nos?",
+      "scan_pages": [
+        671,
+        677
+      ],
+      "printed_pages": "567-573",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d09-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IX De scientia futurorum conditionatorum, quam Deus in suo decreto efficaci, conditionato tamen, habet",
+      "dubium": "I",
+      "title": "De multiplici divisione futuri conditionati, et quaenam ex illis ad praesentem disputationem spectent.",
+      "scan_pages": [
+        678,
+        679
+      ],
+      "printed_pages": "574-575",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "declarative title (not Utrum)"
+    },
+    {
+      "id": "t03-d09-dub02",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IX De scientia futurorum conditionatorum, quam Deus in suo decreto efficaci, conditionato tamen, habet",
+      "dubium": "II",
+      "title": "Utrum juxta Scripturam sacram, Deus certo sciat futura contingentia conditionata, sive illa sint disparata, pendentia tamen tam quoad conditionem, quam quoad eventum a causis liberis, sive non sint disparata, sed habentia connexionem tantum probabilem, sive conjecturalem cum conditione?",
+      "scan_pages": [
+        680,
+        686
+      ],
+      "printed_pages": "576-582",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "DUBIUM III at foot of 686 is a catchword; dub III starts 687"
+    },
+    {
+      "id": "t03-d09-dub03",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IX De scientia futurorum conditionatorum, quam Deus in suo decreto efficaci, conditionato tamen, habet",
+      "dubium": "III",
+      "title": "Utrum juxta Sanctorum Patrum mentem, Deus cognoscat omnino certo, et infallibiliter futura contingentia conditionata, sive sint disparata, modo dicto, sive habeant probabilem connexionem cum eventu futuro?",
+      "scan_pages": [
+        687,
+        689
+      ],
+      "printed_pages": "583-585",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d09-dub04",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IX De scientia futurorum conditionatorum, quam Deus in suo decreto efficaci, conditionato tamen, habet",
+      "dubium": "IV",
+      "title": "Utrum sufficienti ratione ostendatur, Deum certo, et omnino infallibiliter cognoscere tam futura contingentia conditionata, et disparata, quam ea, quae tantum habent probabilem, et conjecturalem nexum ex parte objecti cum conditione?",
+      "scan_pages": [
+        690,
+        694
+      ],
+      "printed_pages": "586-590",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d09-dub05",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "IX De scientia futurorum conditionatorum, quam Deus in suo decreto efficaci, conditionato tamen, habet",
+      "dubium": "V",
+      "title": "Utrum ponenda sint in Deo decreta conditionata positiva, et efficacia circa omnia futura contingentia conditionata? et an eis seclusis, possint praedicta futura omnino certo, et infallibiliter a Deo cognosci?",
+      "scan_pages": [
+        695,
+        702
+      ],
+      "printed_pages": "591-598",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d10-dub01-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "I",
+      "title": "Utrum juxta sacram Scripturam admittenda sit scientia media, sive conditionata?",
+      "scan_pages": [
+        703,
+        707
+      ],
+      "printed_pages": "599-603",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-II); Disp. X heading on 703, dub I on 704; split at § III (scan 707, right col lower)"
+    },
+    {
+      "id": "t03-d10-dub01-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "I",
+      "title": "Utrum juxta sacram Scripturam admittenda sit scientia media, sive conditionata?",
+      "scan_pages": [
+        707,
+        713
+      ],
+      "printed_pages": "603-609",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ III-end); Disp. X heading on 703, dub I on 704; split at § III (scan 707, right col lower)"
+    },
+    {
+      "id": "t03-d10-dub02-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "II",
+      "title": "Utrum juxta mentem Augustini ex testimoniis ejus desumptam colligatur, dandam esse scientiam mediam, sive conditionatam?",
+      "scan_pages": [
+        714,
+        719
+      ],
+      "printed_pages": "610-615",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-II); split at § III (scan 719, right col mid)"
+    },
+    {
+      "id": "t03-d10-dub02-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "II",
+      "title": "Utrum juxta mentem Augustini ex testimoniis ejus desumptam colligatur, dandam esse scientiam mediam, sive conditionatam?",
+      "scan_pages": [
+        719,
+        725
+      ],
+      "printed_pages": "615-621",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ III-end); split at § III (scan 719, right col mid)"
+    },
+    {
+      "id": "t03-d10-dub03",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "III",
+      "title": "Utrum vel juxta principia Adversariorum, vel absolute, et simpliciter loquendo, colligatur ex effectibus doctrinae D. Augustini, vel ex aliis signis, quod juxta ejus mentem, sit rejicienda scientia media, sive conditionata?",
+      "scan_pages": [
+        726,
+        731
+      ],
+      "printed_pages": "622-627",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d10-dub04",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "IV",
+      "title": "Utrum juxta mentem Angelici Doctoris ex testimoniis ejus desumptam, sit danda in Deo scientia media, sive conditionata.",
+      "scan_pages": [
+        732,
+        735
+      ],
+      "printed_pages": "628-631",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d10-dub05",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "V",
+      "title": "Utrum ex aliquibus aliis signis colligatur, quod juxta Divi Thomae mentem, non sit danda scientia media?",
+      "scan_pages": [
+        736,
+        737
+      ],
+      "printed_pages": "632-633",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d10-dub06",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "VI",
+      "title": "Utrum scientia media a tempore Augustini usque ad haec tempora perenniter fluxerit, et a Theologis, tam junioribus, quam antiquis, maxime vero ab iis, qui Concilio Tridentino interfuerunt, approbata fuerit?",
+      "scan_pages": [
+        738,
+        741
+      ],
+      "printed_pages": "634-637",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d10-dub07-a",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "VII",
+      "title": "Utrum scientia media a tempore Augustini, et antiquorum Patrum usque ad annum 1560. antiquos scholasticos latuerit, et a junioribus Theologis ex doctrina eorumdem Patrum eruta sit? an vero a praedictis antiquis scholasticis cognita, et reprobata fuerit?",
+      "scan_pages": [
+        742,
+        748
+      ],
+      "printed_pages": "638-644",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part a of 2 (§§ I-II); split at § III (scan 748, left col lower)"
+    },
+    {
+      "id": "t03-d10-dub07-b",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "VII",
+      "title": "Utrum scientia media a tempore Augustini, et antiquorum Patrum usque ad annum 1560. antiquos scholasticos latuerit, et a junioribus Theologis ex doctrina eorumdem Patrum eruta sit? an vero a praedictis antiquis scholasticis cognita, et reprobata fuerit?",
+      "scan_pages": [
+        748,
+        751
+      ],
+      "printed_pages": "644-647",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "part b of 2 (§§ III-end); split at § III (scan 748, left col lower)"
+    },
+    {
+      "id": "t03-d10-dub08",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "X De impossibilitate scientiae mediae, sive conditionatae ex authoritate petita",
+      "dubium": "VIII",
+      "title": "Quomodo ex dictis deducatur, doctrinam negantem scientiam mediam praeferendam esse doctrinae illam adstruenti, ubi specialiter Doctores negantes praedictam scientiam recensentur.",
+      "scan_pages": [
+        752,
+        754
+      ],
+      "printed_pages": "648-650",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "declarative title"
+    },
+    {
+      "id": "t03-d11-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "XI De impossibilitate scientiae mediae ex defectu necessitatis ejus, et ex incomposibilitate illius cum aliis, quae sunt in Deo, desumpta",
+      "dubium": "I",
+      "title": "Utrum scientia media sit Deo necessaria ad hoc, ut certo possit praedestinare, vel consensum voluntatis creatae, absque laesione suae libertatis, efficaciter praedifinire, an vero utrumque horum tollat?",
+      "scan_pages": [
+        755,
+        760
+      ],
+      "printed_pages": "651-656",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Disp. XI heading on 755; dub I on 756"
+    },
+    {
+      "id": "t03-d11-dub02",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "XI De impossibilitate scientiae mediae ex defectu necessitatis ejus, et ex incomposibilitate illius cum aliis, quae sunt in Deo, desumpta",
+      "dubium": "II",
+      "title": "Utrum ex alio etiam capite scientia media sit incomposibilis cum divina praedestinatione respectu adultorum?",
+      "scan_pages": [
+        761,
+        765
+      ],
+      "printed_pages": "657-661",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d12-dub01",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "XII De impossibilitate scientiae mediae, tam a priori, aut quasi a priori, quam ex variis inconvenientibus deprompta",
+      "dubium": "I",
+      "title": "Utrum impossibilitas scientiae mediae ratione a priori, aut quasi a priori sufficienter ostendatur?",
+      "scan_pages": [
+        766,
+        766
+      ],
+      "printed_pages": "662-662",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "very short (under one column); Disp. XII + dubs I and II all begin on scan 766"
+    },
+    {
+      "id": "t03-d12-dub02",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "XII De impossibilitate scientiae mediae, tam a priori, aut quasi a priori, quam ex variis inconvenientibus deprompta",
+      "dubium": "II",
+      "title": "Utrum scientia media sit impossibilis, ex eo quod per eam tollatur a Deo ratio primae causae, primique Auctoris gratiae?",
+      "scan_pages": [
+        766,
+        769
+      ],
+      "printed_pages": "662-665",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d12-dub03",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "XII De impossibilitate scientiae mediae, tam a priori, aut quasi a priori, quam ex variis inconvenientibus deprompta",
+      "dubium": "III",
+      "title": "Utrum scientia media sit impossibilis, ex eo quod sequatur ex ea, Deum non posse adimplere ea, quae promittit circa fidem, vel conversionem creaturae rationalis, ex facultate suae omnipotentiae, sed potius ex praescientia nostri futuri consensus?",
+      "scan_pages": [
+        770,
+        770
+      ],
+      "printed_pages": "666-666",
+      "include_articles": false,
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "id": "t03-d12-dub04",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "XII De impossibilitate scientiae mediae, tam a priori, aut quasi a priori, quam ex variis inconvenientibus deprompta",
+      "dubium": "IV",
+      "title": "Utrum scientia media repugnet ex eo, quod ex illa colligatur, Deum concurrere ad actus nostros liberos caeco, et ignoranti modo, et absque intentione illorum in particulari?",
+      "scan_pages": [
+        771,
+        773
+      ],
+      "printed_pages": "667-669",
+      "include_articles": false,
+      "status": "pending",
+      "notes": "Aquinas Arts. XIV-XVI at 773-774 (small type, skipped); volume body ends scan 774"
     }
   ]
 }
