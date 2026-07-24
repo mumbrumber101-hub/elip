@@ -1,0 +1,17 @@
+# The Salmanticenses, Theological Course, Tome I
+## (Front matter) — Notations following Question 3 of St. Thomas, On the Simplicity of God
+### English translation · Palmé ed., p. 10 (scan 114)
+
+**Translator's note.** *Notationes* is rendered "Notations," kept distinct from *annotatio* ("annotation"); the bracketed note at "our Complutense College" supplies the glossary's first-occurrence identification of the Complutenses.
+
+---
+
+*[There precede Articles I–VIII of St. Thomas's third question, On the Simplicity of God, reprinted in smaller type (scan 110–113), here omitted by design.]*
+
+## *Notations concerning all the articles of this third question of St. Thomas.*
+
+First of all, then, from what we have said in the Prooemium of this work it is sufficiently established why this Theological Course begins from q. 3 of this First Part of St. Thomas; and therefore on this point nothing now remains to be said.
+
+Next it must be noted that, concerning this question of St. Thomas, several things could be called into doubt. First, indeed, whether God is a body, and composed of matter and form? Second, again, whether he is the same as his essence, or nature — and also the same as his existence? Third, whether he is in some genus? Fourth, again, whether he is simple in himself? and whether he can enter into the composition of other things? Fifth, whether there are any accidents in him? Sixth, whether he is individuated by himself? Seventh, finally, whether material substances are individuated by matter as by the first principle of their individuation? For, as we were saying in the Prooemium, it is from this that St. Thomas proves that God is individual by himself, and not by matter: because spiritual substances are distinguished from material ones in this, that the former are individuated of themselves, whereas the latter are individuated by matter, as by their first root. For the rest, since the first, second, fourth, and fifth will be able to be established from what we shall say in the treatise on the Knowledge and Will of God, and the third from what our Complutense College [i.e., the Carmelite philosophy course of Alcalá, companion to this Salamanca theology course] has handed down in book 3 of the *Physics*, therefore only concerning the sixth and the seventh does anything remain to be said. But in truth, since concerning the sixth there is no special difficulty, but only concerning the seventh, and since the things that were to be handed down concerning it were deliberately omitted by our Complutense College for just causes, therefore, on account of what we handed down in the Prooemium of this work at number two, we shall institute only a single treatise in explanation of this question: in which we shall treat of the principle of individuation of material substance and of its accidents, and consequently of the principle of purely individual distinction. For matter alone, which is the principle of individuation with respect to material substance, as will be clear from what is to be said below, can be the first root and origin of the aforesaid distinction: so that from this it may also be gathered how God is individuated by himself, and cannot be distinguished from another by a purely individual distinction.
+
+*[There follows a typographical ornament, with which the unit closes; the catchword TRACTATUS at the foot of the page looks to the following treatise.]*
