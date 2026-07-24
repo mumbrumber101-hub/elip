@@ -1,0 +1,17 @@
+{
+  "volume": "tome-1",
+  "units": [
+    {
+      "id": "t03-d01-dub-unicum",
+      "tractatus": "III De scientia Dei",
+      "disputatio": "I (prooemialis)",
+      "dubium": "unicum",
+      "title": "Utrum ea quae D. Thom. in Prooemio hujus quaestionis docet, sint vera",
+      "scan_pages": [419, 422],
+      "printed_pages": "315-318",
+      "include_articles": false,
+      "status": "reviewed",
+      "notes": "pilot unit; completed in chat 2026-07-24; Stage 0 must prepend all units before this one and append the rest of the volume"
+    }
+  ]
+}
