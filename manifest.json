@@ -54,12 +54,12 @@
       "title": "Utrum forma substantialis se ipsa sit individua, et primum principium individuationis, et distinctionis pure individualis totius compositi?",
       "scan_pages": [
         121,
-        125
+        126
       ],
-      "printed_pages": "17-21",
+      "printed_pages": "17-22",
       "include_articles": false,
-      "status": "extracted",
-      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 121, right col mid); tractatus+disp+dub headings on 115"
+      "status": "transcribed",
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 121, right col mid); tractatus+disp+dub headings on 115; boundary corrected in Stage 2: dubium ends scan 126 (125 ends mid-sentence)"
     },
     {
       "id": "t01-d01-dub02-a",
