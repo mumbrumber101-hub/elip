@@ -1,0 +1,900 @@
+{
+ "note": "SEED ONLY - verify every boundary against images",
+ "headings": [
+  {
+   "scan_page": 110,
+   "raw": "ARTICULUS I.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 110,
+   "raw": "ARTICULUS H.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 111,
+   "raw": "ARTIGULUS II.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 111,
+   "raw": "ARTICULUS III.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 111,
+   "raw": "ARTICULUS IV.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 112,
+   "raw": "ARTICULUS V.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 112,
+   "raw": "ARTICULUS VI.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 113,
+   "raw": "ARTICULUS VII.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 114,
+   "raw": "TRAGTATUS",
+   "kind": "TRAGTATUS"
+  },
+  {
+   "scan_page": 115,
+   "raw": "TRACTATUS",
+   "kind": "TRACTATUS"
+  },
+  {
+   "scan_page": 115,
+   "raw": "DISPUTATIO I.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 115,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 126,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 138,
+   "raw": "DUBIUM in.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 153,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 154,
+   "raw": "dubium cleciditur,",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 156,
+   "raw": "DUBIUM V.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 168,
+   "raw": "DISPUTATIO II.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 169,
+   "raw": "rea dubium hoc sigillatim excitamus.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 174,
+   "raw": "DUBIUM n.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 186,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 195,
+   "raw": "TRACTATUS",
+   "kind": "TRACTATUS"
+  },
+  {
+   "scan_page": 196,
+   "raw": "ARTIGULUS I.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 197,
+   "raw": "DISPUTATIO I.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 197,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 203,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 207,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 214,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 218,
+   "raw": "DUBIUM Y.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 222,
+   "raw": "ARTIGULUS II.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 223,
+   "raw": "DISPUTATIO II.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 223,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 229,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 244,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 256,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 260,
+   "raw": "DUBIUM V.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 261,
+   "raw": "DUBIUM V.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 268,
+   "raw": "DUBIUM VI.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 268,
+   "raw": "preesens dubium excitamus.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 270,
+   "raw": "DUBIUM VII.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 280,
+   "raw": "DUBIUM YIII.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 280,
+   "raw": "186 Dubium hoc , quoad priorem ejus",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 284,
+   "raw": "DUBIUM IX.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 292,
+   "raw": "DUBIUM X.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 292,
+   "raw": "dubium.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 305,
+   "raw": "ARTICULUS IIL",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 305,
+   "raw": "ARTICULUS IV.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 306,
+   "raw": "DISPUTATIO III.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 306,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 310,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 323,
+   "raw": "ARTICULUS V.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 323,
+   "raw": "DISPUTATIO IV.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 324,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 330,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 335,
+   "raw": "ad hoc expUcandum prsesens dubium exci-",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 339,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 346,
+   "raw": "DUBIUM V",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 353,
+   "raw": "ARTICULUS VI.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 354,
+   "raw": "DISPUTATIO V.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 356,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 362,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 370,
+   "raw": "ARTICULUS VII.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 371,
+   "raw": "DISPUTATIO VI.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 371,
+   "raw": "DUBIUM UNIGUM.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 382,
+   "raw": "ARTIGULUS VIII. 1",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 383,
+   "raw": "DISPUTATIO VII.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 383,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 385,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 393,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 398,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 398,
+   "raw": "gna, adducunt ; ideo dubium praesens ut",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 404,
+   "raw": "DUBIUM V,",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 414,
+   "raw": "ARTIGULUS IX.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 415,
+   "raw": "ARTICULUS XI.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 416,
+   "raw": "ARTICULUS XII.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 417,
+   "raw": "ARTICULUS XIII.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 419,
+   "raw": "TRACTATUS",
+   "kind": "TRACTATUS"
+  },
+  {
+   "scan_page": 420,
+   "raw": "DUBIUM UNIGUM.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 420,
+   "raw": "Dubium hoc breviter expediendum est ,",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 420,
+   "raw": "cemus : ac proinde disputatio de iUo,",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 422,
+   "raw": "ARTICULUS I.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 422,
+   "raw": "DISPUTATIO I.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 422,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 436,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 443,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 454,
+   "raw": "DISPUTATIO IL",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 454,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 455,
+   "raw": "sed valde de re preedictum dubium esse",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 472,
+   "raw": "DUBIUM 11. ^",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 491,
+   "raw": "ARTIGULUS II.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 491,
+   "raw": "DISPUTATIO III.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 491,
+   "raw": "DUBIUM T.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 491,
+   "raw": "in dubium vocatur : supponitur enim",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 492,
+   "raw": "Quare quod in dubium vocamus, tan-",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 496,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 506,
+   "raw": "ARTICULUS III.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 507,
+   "raw": "ARTICULUS IV.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 507,
+   "raw": "DISPUTATIO IV.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 507,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 518,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 533,
+   "raw": "ARTIGULUS V.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 533,
+   "raw": "ARTICULUS VI.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 534,
+   "raw": "ARTICULUS VII.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 535,
+   "raw": "ARTICULUS VIII.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 535,
+   "raw": "DISPUTATIO V.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 535,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 537,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 546,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 563,
+   "raw": "ARTICULUS IX.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 564,
+   "raw": "ARTICULUS X.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 564,
+   "raw": "DISPUTATIO VL",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 564,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 565,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 565,
+   "raw": "Dubium hoc recto ordine ad prsecedens",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 570,
+   "raw": "ARTIGULUS Xr.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 571,
+   "raw": "ARTIGULUS Xn.",
+   "kind": "ARTIGULUS"
+  },
+  {
+   "scan_page": 571,
+   "raw": "ARTICULUS XIIL",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 573,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 574,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 581,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 584,
+   "raw": "tractatus. Nam futura contingentia, an-",
+   "kind": "TRACTATUS"
+  },
+  {
+   "scan_page": 588,
+   "raw": "DUBIUM lY.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 598,
+   "raw": "DUBIUM V.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 599,
+   "raw": "DUBIUM V.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 604,
+   "raw": "DUBIUM VI.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 628,
+   "raw": "DISPUTATIO VHl.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 628,
+   "raw": "DUBIUM I,",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 640,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 643,
+   "raw": "in sequens dubium remittimus.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 652,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 671,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 678,
+   "raw": "DISPUTATIO IX.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 678,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 680,
+   "raw": "Qaare tota hjBC disputatio tantum vcr-",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 680,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 684,
+   "raw": "futurum esse dubium , et solum con-",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 686,
+   "raw": "DUBIUM 111. '7iar",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 687,
+   "raw": "DUBIUM III.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 687,
+   "raw": "dubium hoc excitatur,",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 690,
+   "raw": "DUBIUM IV.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 695,
+   "raw": "DUBIUM y.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 703,
+   "raw": "DISPUTATIO X.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 704,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 714,
+   "raw": "DUBIUM IT.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 714,
+   "raw": "28 PecuUariter dubium hoc excitamus",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 732,
+   "raw": "DUBIUM lY.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 742,
+   "raw": "DUBIUM VI l.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 752,
+   "raw": "DUBIUM VIII.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 752,
+   "raw": "Resolvitur dubium.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 755,
+   "raw": "DISPUTATIO XI.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 756,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 761,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 766,
+   "raw": "DISPUTATIO XII.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 766,
+   "raw": "DUBIUM I.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 766,
+   "raw": "Dubium hoc brevissime absolvendum",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 766,
+   "raw": "DUBIUM II.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 770,
+   "raw": "DUBIUM TII.",
+   "kind": "DUBIUM"
+  },
+  {
+   "scan_page": 773,
+   "raw": "ARTICULUS XIV.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 773,
+   "raw": "ARTICULUS XV. *",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 774,
+   "raw": "ARTICULUS XVI.",
+   "kind": "ARTICULUS"
+  },
+  {
+   "scan_page": 775,
+   "raw": "TRACTATUS I.",
+   "kind": "TRACTATUS"
+  },
+  {
+   "scan_page": 775,
+   "raw": "Disputatio I.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 775,
+   "raw": "TRACTATUS II.",
+   "kind": "TRACTATUS"
+  },
+  {
+   "scan_page": 775,
+   "raw": "Disputatio I.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 776,
+   "raw": "Disputatio II.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 776,
+   "raw": "Disputatio III.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 776,
+   "raw": "Disputatio IV.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 776,
+   "raw": "Disputatio V.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 776,
+   "raw": "Disputatio VII.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 777,
+   "raw": "TRACTATUS III.",
+   "kind": "TRACTATUS"
+  },
+  {
+   "scan_page": 777,
+   "raw": ". Disputatio I.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 777,
+   "raw": "Disputatio II.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 777,
+   "raw": "Disputatio IJI.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 777,
+   "raw": "Disputatio V.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 777,
+   "raw": "Disputatio VI.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 777,
+   "raw": "Disputatio VII.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 778,
+   "raw": "Disputatio VIH.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 778,
+   "raw": "Disputatio I.",
+   "kind": "DISPUTATIO"
+  },
+  {
+   "scan_page": 778,
+   "raw": "Disputatio XI.",
+   "kind": "DISPUTATIO"
+  }
+ ]
+}
