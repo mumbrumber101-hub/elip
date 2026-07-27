@@ -43,8 +43,8 @@
       ],
       "printed_pages": "11-17",
       "include_articles": false,
-      "status": "transcribed",
-      "notes": "part a of 2 (§§ I-III); split at § IV (scan 121, right col mid); tractatus+disp+dub headings on 115"
+      "status": "translated",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 121, right col mid); tractatus+disp+dub headings on 115; english.md complete on disk but translator summary lost to spend-limit outage - Stage 4 must review with extra scrutiny and collect glossary candidates itself"
     },
     {
       "id": "t01-d01-dub01-b",
@@ -73,8 +73,8 @@
       ],
       "printed_pages": "22-28",
       "include_articles": false,
-      "status": "transcribed",
-      "notes": "part a of 2 (§§ I-III); split at § IV (scan 132, left col upper)"
+      "status": "translated",
+      "notes": "part a of 2 (§§ I-III); split at § IV (scan 132, left col upper); english.md complete on disk but translator summary lost to spend-limit outage - Stage 4 must review with extra scrutiny and collect glossary candidates itself"
     },
     {
       "id": "t01-d01-dub02-b",
@@ -89,7 +89,7 @@
       "printed_pages": "28-34",
       "include_articles": false,
       "status": "transcribed",
-      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 132, left col upper); boundary corrected in Stage 2: dubium ends scan 138 left col (137 ends mid-word)"
+      "notes": "part b of 2 (§§ IV-end); split at § IV (scan 132, left col upper); boundary corrected in Stage 2: dubium ends scan 138 left col (137 ends mid-word); boundary corrected in Stage 2: dubium ends scan 138"
     },
     {
       "id": "t01-d01-dub03-a",
